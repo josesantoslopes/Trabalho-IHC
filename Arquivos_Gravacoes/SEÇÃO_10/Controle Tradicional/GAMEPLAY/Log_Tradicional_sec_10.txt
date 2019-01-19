@@ -1,0 +1,288 @@
+# Nome
+usuário 10 - trad
+# Hora do log
+2016-12-02 11:45:02.322
+# Resolucao - x,y
+1776,1080
+# Algoritmo
+K-Means
+# Total de toques na tela
+1
+mudar,0,0
+right,0,0
+ok,1,1
+left,0,0
+potencia,0,0
+stick2,0,0
+armas,0,0
+stick1,0,0
+transformacao,0,0
+estabilizacao,0,0
+super,0,0
+down,0,0
+up,0,0
+pular,0,0
+# Taxa de acertos geral final (%)
+100.0
+# Taxa de erros geral final (%)
+0.0
+# Taxa de acertos geral (%) e toques por tempo - tempo (ms), toques_corretos, total_toques, taxa_acertos, taxa_erros
+1000,0,0,NaN,NaN,nextscreen-1.2b
+2000,0,0,NaN,NaN,nextscreen-1.2b
+3000,0,0,NaN,NaN,nextscreen-1.2b
+4000,0,0,NaN,NaN,nextscreen-1.2b
+9000,0,0,NaN,NaN,nextscreen-1.2b
+15000,0,0,NaN,NaN,nextscreen-1.2b
+20000,0,0,NaN,NaN,nextscreen-1.2b
+25000,0,0,NaN,NaN,nextscreen-1.2b
+30000,0,0,NaN,NaN,nextscreen-1.2b
+35000,0,0,NaN,NaN,nextscreen-1.2b
+40000,0,0,NaN,NaN,nextscreen-1.2b
+45000,0,0,NaN,NaN,nextscreen-1.2b
+50000,0,0,NaN,NaN,nextscreen-1.2b
+55000,0,0,NaN,NaN,nextscreen-1.2b
+60000,0,0,NaN,NaN,mainmenu-1.6.3
+65000,0,0,NaN,NaN,platformer-1.2c
+70000,0,0,NaN,NaN,platformer-1.2c
+75000,0,0,NaN,NaN,platformer-1.2c
+80000,0,0,NaN,NaN,platformer-1.2c
+85000,0,0,NaN,NaN,platformer-1.2c
+90000,0,0,NaN,NaN,platformer-1.2c
+95000,0,0,NaN,NaN,platformer-1.2c
+100000,0,0,NaN,NaN,platformer-1.2c
+105000,0,0,NaN,NaN,platformer-1.2c
+110000,0,0,NaN,NaN,platformer-1.2c
+115000,0,0,NaN,NaN,platformer-1.2c
+120000,0,0,NaN,NaN,platformer-1.2c
+126000,0,0,NaN,NaN,platformer-1.2c
+131000,0,0,NaN,NaN,platformer-1.2c
+136000,0,0,NaN,NaN,platformer-1.2c
+141000,0,0,NaN,NaN,platformer-1.2c
+146000,0,0,NaN,NaN,platformer-1.2c
+151000,0,0,NaN,NaN,platformer-1.2c
+156000,0,0,NaN,NaN,platformer-1.2c
+161000,0,0,NaN,NaN,platformer-1.2c
+166000,0,0,NaN,NaN,platformer-1.2c
+171000,0,0,NaN,NaN,platformer-1.2c
+176000,0,0,NaN,NaN,platformer-1.2c
+181000,0,0,NaN,NaN,nextscreen-1.2b
+186000,0,0,NaN,NaN,criticalurgency-1.1a
+191000,0,0,NaN,NaN,criticalurgency-1.1a
+196000,0,0,NaN,NaN,criticalurgency-1.1a
+201000,0,0,NaN,NaN,criticalurgency-1.1a
+206000,0,0,NaN,NaN,criticalurgency-1.1a
+211000,0,0,NaN,NaN,criticalurgency-1.1a
+216000,0,0,NaN,NaN,criticalurgency-1.1a
+221000,0,0,NaN,NaN,criticalurgency-1.1a
+226000,0,0,NaN,NaN,drone-1.7.2
+231000,0,0,NaN,NaN,drone-1.7.2
+236000,0,0,NaN,NaN,drone-1.7.2
+241000,0,0,NaN,NaN,drone-1.7.2
+247000,0,0,NaN,NaN,drone-1.7.2
+252000,0,0,NaN,NaN,drone-1.7.2
+257000,0,0,NaN,NaN,drone-1.7.2
+262000,0,0,NaN,NaN,drone-1.7.2
+267000,0,0,NaN,NaN,drone-1.7.2
+272000,0,0,NaN,NaN,drone-1.7.2
+277000,0,0,NaN,NaN,drone-1.7.2
+282000,0,0,NaN,NaN,drone-1.7.2
+287000,0,0,NaN,NaN,drone-1.7.2
+292000,0,0,NaN,NaN,drone-1.7.2
+297000,0,0,NaN,NaN,drone-1.7.2
+302000,0,0,NaN,NaN,drone-1.7.2
+307000,0,0,NaN,NaN,drone-1.7.2
+312000,0,0,NaN,NaN,drone-1.7.2
+317000,0,0,NaN,NaN,drone-1.7.2
+322000,0,0,NaN,NaN,drone-1.7.2
+327000,0,0,NaN,NaN,drone-1.7.2
+332000,0,0,NaN,NaN,drone-1.7.2
+337000,0,0,NaN,NaN,drone-1.7.2
+342000,0,0,NaN,NaN,drone-1.7.2
+347000,0,0,NaN,NaN,drone-1.7.2
+352000,0,0,NaN,NaN,drone-1.7.2
+357000,0,0,NaN,NaN,drone-1.7.2
+362000,0,0,NaN,NaN,drone-1.7.2
+368000,0,0,NaN,NaN,drone-1.7.2
+373000,0,0,NaN,NaN,drone-1.7.2
+378000,0,0,NaN,NaN,drone-1.7.2
+383000,0,0,NaN,NaN,drone-1.7.2
+388000,0,0,NaN,NaN,drone-1.7.2
+393000,0,0,NaN,NaN,drone-1.7.2
+398000,0,0,NaN,NaN,drone-1.7.2
+403000,0,0,NaN,NaN,drone-1.7.2
+408000,0,0,NaN,NaN,drone-1.7.2
+413000,0,0,NaN,NaN,drone-1.7.2
+418000,0,0,NaN,NaN,drone-1.7.2
+423000,0,0,NaN,NaN,drone-1.7.2
+428000,0,0,NaN,NaN,drone-1.7.2
+433000,0,0,NaN,NaN,drone-1.7.2
+438000,0,0,NaN,NaN,drone-1.7.2
+443000,0,0,NaN,NaN,drone-1.7.2
+448000,0,0,NaN,NaN,drone-1.7.2
+453000,0,0,NaN,NaN,drone-1.7.2
+458000,0,0,NaN,NaN,drone-1.7.2
+463000,0,0,NaN,NaN,drone-1.7.2
+468000,0,0,NaN,NaN,drone-1.7.2
+473000,0,0,NaN,NaN,drone-1.7.2
+479000,0,0,NaN,NaN,drone-1.7.2
+484000,0,0,NaN,NaN,drone-1.7.2
+489000,0,0,NaN,NaN,drone-1.7.2
+494000,0,0,NaN,NaN,drone-1.7.2
+499000,0,0,NaN,NaN,drone-1.7.2
+504000,0,0,NaN,NaN,nextscreen-1.2b
+509000,0,0,NaN,NaN,nextscreen-1.2b
+514000,1,1,100.0,0.0,nextscreen-1.2b
+519000,1,1,100.0,0.0,nextscreen-1.2b
+524000,1,1,100.0,0.0,nextscreen-1.2b
+# Taxa de toques, acertos e erros final por botao (%) - nome, toques_corretos, total_toques, taxa_acertos, taxa_erros
+mudar,0,0,NaN,NaN
+right,0,0,NaN,NaN
+ok,1,1,100.0,0.0
+left,0,0,NaN,NaN
+potencia,0,0,NaN,NaN
+stick2,0,0,NaN,NaN
+armas,0,0,NaN,NaN
+stick1,0,0,NaN,NaN
+transformacao,0,0,NaN,NaN
+estabilizacao,0,0,NaN,NaN
+super,0,0,NaN,NaN
+down,0,0,NaN,NaN
+up,0,0,NaN,NaN
+pular,0,0,NaN,NaN
+# Taxa de toques, acertos e erros por tempo por botao (%) - tempo, nome, taxa_acertos, taxa_erros
+1000,mudar,NaN,NaN,nextscreen-1.2b1000,right,NaN,NaN,nextscreen-1.2b1000,super,NaN,NaN,nextscreen-1.2b1000,ok,NaN,NaN,nextscreen-1.2b1000,left,NaN,NaN,nextscreen-1.2b1000,stick2,NaN,NaN,nextscreen-1.2b1000,pular,NaN,NaN,nextscreen-1.2b1000,stick1,NaN,NaN,nextscreen-1.2b
+2000,mudar,NaN,NaN,nextscreen-1.2b2000,right,NaN,NaN,nextscreen-1.2b2000,super,NaN,NaN,nextscreen-1.2b2000,ok,NaN,NaN,nextscreen-1.2b2000,left,NaN,NaN,nextscreen-1.2b2000,stick2,NaN,NaN,nextscreen-1.2b2000,pular,NaN,NaN,nextscreen-1.2b2000,stick1,NaN,NaN,nextscreen-1.2b
+3000,mudar,NaN,NaN,nextscreen-1.2b3000,right,NaN,NaN,nextscreen-1.2b3000,super,NaN,NaN,nextscreen-1.2b3000,ok,NaN,NaN,nextscreen-1.2b3000,left,NaN,NaN,nextscreen-1.2b3000,stick2,NaN,NaN,nextscreen-1.2b3000,pular,NaN,NaN,nextscreen-1.2b3000,stick1,NaN,NaN,nextscreen-1.2b
+4000,mudar,NaN,NaN,nextscreen-1.2b4000,right,NaN,NaN,nextscreen-1.2b4000,super,NaN,NaN,nextscreen-1.2b4000,ok,NaN,NaN,nextscreen-1.2b4000,left,NaN,NaN,nextscreen-1.2b4000,stick2,NaN,NaN,nextscreen-1.2b4000,pular,NaN,NaN,nextscreen-1.2b4000,stick1,NaN,NaN,nextscreen-1.2b
+9000,mudar,NaN,NaN,nextscreen-1.2b9000,right,NaN,NaN,nextscreen-1.2b9000,super,NaN,NaN,nextscreen-1.2b9000,ok,NaN,NaN,nextscreen-1.2b9000,left,NaN,NaN,nextscreen-1.2b9000,stick2,NaN,NaN,nextscreen-1.2b9000,pular,NaN,NaN,nextscreen-1.2b9000,stick1,NaN,NaN,nextscreen-1.2b
+15000,mudar,NaN,NaN,nextscreen-1.2b15000,right,NaN,NaN,nextscreen-1.2b15000,super,NaN,NaN,nextscreen-1.2b15000,ok,NaN,NaN,nextscreen-1.2b15000,left,NaN,NaN,nextscreen-1.2b15000,stick2,NaN,NaN,nextscreen-1.2b15000,pular,NaN,NaN,nextscreen-1.2b15000,stick1,NaN,NaN,nextscreen-1.2b
+20000,mudar,NaN,NaN,nextscreen-1.2b20000,right,NaN,NaN,nextscreen-1.2b20000,super,NaN,NaN,nextscreen-1.2b20000,ok,NaN,NaN,nextscreen-1.2b20000,left,NaN,NaN,nextscreen-1.2b20000,stick2,NaN,NaN,nextscreen-1.2b20000,pular,NaN,NaN,nextscreen-1.2b20000,stick1,NaN,NaN,nextscreen-1.2b
+25000,mudar,NaN,NaN,nextscreen-1.2b25000,right,NaN,NaN,nextscreen-1.2b25000,super,NaN,NaN,nextscreen-1.2b25000,ok,NaN,NaN,nextscreen-1.2b25000,left,NaN,NaN,nextscreen-1.2b25000,stick2,NaN,NaN,nextscreen-1.2b25000,pular,NaN,NaN,nextscreen-1.2b25000,stick1,NaN,NaN,nextscreen-1.2b
+30000,mudar,NaN,NaN,nextscreen-1.2b30000,right,NaN,NaN,nextscreen-1.2b30000,super,NaN,NaN,nextscreen-1.2b30000,ok,NaN,NaN,nextscreen-1.2b30000,left,NaN,NaN,nextscreen-1.2b30000,stick2,NaN,NaN,nextscreen-1.2b30000,pular,NaN,NaN,nextscreen-1.2b30000,stick1,NaN,NaN,nextscreen-1.2b
+35000,mudar,NaN,NaN,nextscreen-1.2b35000,right,NaN,NaN,nextscreen-1.2b35000,super,NaN,NaN,nextscreen-1.2b35000,ok,NaN,NaN,nextscreen-1.2b35000,left,NaN,NaN,nextscreen-1.2b35000,stick2,NaN,NaN,nextscreen-1.2b35000,pular,NaN,NaN,nextscreen-1.2b35000,stick1,NaN,NaN,nextscreen-1.2b
+40000,mudar,NaN,NaN,nextscreen-1.2b40000,right,NaN,NaN,nextscreen-1.2b40000,super,NaN,NaN,nextscreen-1.2b40000,ok,NaN,NaN,nextscreen-1.2b40000,left,NaN,NaN,nextscreen-1.2b40000,stick2,NaN,NaN,nextscreen-1.2b40000,pular,NaN,NaN,nextscreen-1.2b40000,stick1,NaN,NaN,nextscreen-1.2b
+45000,mudar,NaN,NaN,nextscreen-1.2b45000,right,NaN,NaN,nextscreen-1.2b45000,super,NaN,NaN,nextscreen-1.2b45000,ok,NaN,NaN,nextscreen-1.2b45000,left,NaN,NaN,nextscreen-1.2b45000,stick2,NaN,NaN,nextscreen-1.2b45000,pular,NaN,NaN,nextscreen-1.2b45000,stick1,NaN,NaN,nextscreen-1.2b
+50000,mudar,NaN,NaN,nextscreen-1.2b50000,right,NaN,NaN,nextscreen-1.2b50000,super,NaN,NaN,nextscreen-1.2b50000,ok,NaN,NaN,nextscreen-1.2b50000,left,NaN,NaN,nextscreen-1.2b50000,stick2,NaN,NaN,nextscreen-1.2b50000,pular,NaN,NaN,nextscreen-1.2b50000,stick1,NaN,NaN,nextscreen-1.2b
+55000,mudar,NaN,NaN,nextscreen-1.2b55000,right,NaN,NaN,nextscreen-1.2b55000,super,NaN,NaN,nextscreen-1.2b55000,ok,NaN,NaN,nextscreen-1.2b55000,left,NaN,NaN,nextscreen-1.2b55000,stick2,NaN,NaN,nextscreen-1.2b55000,pular,NaN,NaN,nextscreen-1.2b55000,stick1,NaN,NaN,nextscreen-1.2b
+60000,mudar,NaN,NaN,mainmenu-1.6.360000,right,NaN,NaN,mainmenu-1.6.360000,super,NaN,NaN,mainmenu-1.6.360000,ok,NaN,NaN,mainmenu-1.6.360000,left,NaN,NaN,mainmenu-1.6.360000,stick2,NaN,NaN,mainmenu-1.6.360000,pular,NaN,NaN,mainmenu-1.6.360000,stick1,NaN,NaN,mainmenu-1.6.3
+65000,mudar,NaN,NaN,platformer-1.2c65000,right,NaN,NaN,platformer-1.2c65000,super,NaN,NaN,platformer-1.2c65000,ok,NaN,NaN,platformer-1.2c65000,left,NaN,NaN,platformer-1.2c65000,stick2,NaN,NaN,platformer-1.2c65000,pular,NaN,NaN,platformer-1.2c65000,stick1,NaN,NaN,platformer-1.2c
+70000,mudar,NaN,NaN,platformer-1.2c70000,right,NaN,NaN,platformer-1.2c70000,super,NaN,NaN,platformer-1.2c70000,ok,NaN,NaN,platformer-1.2c70000,left,NaN,NaN,platformer-1.2c70000,stick2,NaN,NaN,platformer-1.2c70000,pular,NaN,NaN,platformer-1.2c70000,stick1,NaN,NaN,platformer-1.2c
+75000,mudar,NaN,NaN,platformer-1.2c75000,right,NaN,NaN,platformer-1.2c75000,super,NaN,NaN,platformer-1.2c75000,ok,NaN,NaN,platformer-1.2c75000,left,NaN,NaN,platformer-1.2c75000,stick2,NaN,NaN,platformer-1.2c75000,pular,NaN,NaN,platformer-1.2c75000,stick1,NaN,NaN,platformer-1.2c
+80000,mudar,NaN,NaN,platformer-1.2c80000,right,NaN,NaN,platformer-1.2c80000,super,NaN,NaN,platformer-1.2c80000,ok,NaN,NaN,platformer-1.2c80000,left,NaN,NaN,platformer-1.2c80000,stick2,NaN,NaN,platformer-1.2c80000,pular,NaN,NaN,platformer-1.2c80000,stick1,NaN,NaN,platformer-1.2c
+85000,mudar,NaN,NaN,platformer-1.2c85000,right,NaN,NaN,platformer-1.2c85000,super,NaN,NaN,platformer-1.2c85000,ok,NaN,NaN,platformer-1.2c85000,left,NaN,NaN,platformer-1.2c85000,stick2,NaN,NaN,platformer-1.2c85000,pular,NaN,NaN,platformer-1.2c85000,stick1,NaN,NaN,platformer-1.2c
+90000,mudar,NaN,NaN,platformer-1.2c90000,right,NaN,NaN,platformer-1.2c90000,super,NaN,NaN,platformer-1.2c90000,ok,NaN,NaN,platformer-1.2c90000,left,NaN,NaN,platformer-1.2c90000,stick2,NaN,NaN,platformer-1.2c90000,pular,NaN,NaN,platformer-1.2c90000,stick1,NaN,NaN,platformer-1.2c
+95000,mudar,NaN,NaN,platformer-1.2c95000,right,NaN,NaN,platformer-1.2c95000,super,NaN,NaN,platformer-1.2c95000,ok,NaN,NaN,platformer-1.2c95000,left,NaN,NaN,platformer-1.2c95000,stick2,NaN,NaN,platformer-1.2c95000,pular,NaN,NaN,platformer-1.2c95000,stick1,NaN,NaN,platformer-1.2c
+100000,mudar,NaN,NaN,platformer-1.2c100000,right,NaN,NaN,platformer-1.2c100000,super,NaN,NaN,platformer-1.2c100000,ok,NaN,NaN,platformer-1.2c100000,left,NaN,NaN,platformer-1.2c100000,stick2,NaN,NaN,platformer-1.2c100000,pular,NaN,NaN,platformer-1.2c100000,stick1,NaN,NaN,platformer-1.2c
+105000,mudar,NaN,NaN,platformer-1.2c105000,right,NaN,NaN,platformer-1.2c105000,super,NaN,NaN,platformer-1.2c105000,ok,NaN,NaN,platformer-1.2c105000,left,NaN,NaN,platformer-1.2c105000,stick2,NaN,NaN,platformer-1.2c105000,pular,NaN,NaN,platformer-1.2c105000,stick1,NaN,NaN,platformer-1.2c
+110000,mudar,NaN,NaN,platformer-1.2c110000,right,NaN,NaN,platformer-1.2c110000,super,NaN,NaN,platformer-1.2c110000,ok,NaN,NaN,platformer-1.2c110000,left,NaN,NaN,platformer-1.2c110000,stick2,NaN,NaN,platformer-1.2c110000,pular,NaN,NaN,platformer-1.2c110000,stick1,NaN,NaN,platformer-1.2c
+115000,mudar,NaN,NaN,platformer-1.2c115000,right,NaN,NaN,platformer-1.2c115000,super,NaN,NaN,platformer-1.2c115000,ok,NaN,NaN,platformer-1.2c115000,left,NaN,NaN,platformer-1.2c115000,stick2,NaN,NaN,platformer-1.2c115000,pular,NaN,NaN,platformer-1.2c115000,stick1,NaN,NaN,platformer-1.2c
+120000,mudar,NaN,NaN,platformer-1.2c120000,right,NaN,NaN,platformer-1.2c120000,super,NaN,NaN,platformer-1.2c120000,ok,NaN,NaN,platformer-1.2c120000,left,NaN,NaN,platformer-1.2c120000,stick2,NaN,NaN,platformer-1.2c120000,pular,NaN,NaN,platformer-1.2c120000,stick1,NaN,NaN,platformer-1.2c
+126000,mudar,NaN,NaN,platformer-1.2c126000,right,NaN,NaN,platformer-1.2c126000,super,NaN,NaN,platformer-1.2c126000,ok,NaN,NaN,platformer-1.2c126000,left,NaN,NaN,platformer-1.2c126000,stick2,NaN,NaN,platformer-1.2c126000,pular,NaN,NaN,platformer-1.2c126000,stick1,NaN,NaN,platformer-1.2c
+131000,mudar,NaN,NaN,platformer-1.2c131000,right,NaN,NaN,platformer-1.2c131000,super,NaN,NaN,platformer-1.2c131000,ok,NaN,NaN,platformer-1.2c131000,left,NaN,NaN,platformer-1.2c131000,stick2,NaN,NaN,platformer-1.2c131000,pular,NaN,NaN,platformer-1.2c131000,stick1,NaN,NaN,platformer-1.2c
+136000,mudar,NaN,NaN,platformer-1.2c136000,right,NaN,NaN,platformer-1.2c136000,super,NaN,NaN,platformer-1.2c136000,ok,NaN,NaN,platformer-1.2c136000,left,NaN,NaN,platformer-1.2c136000,stick2,NaN,NaN,platformer-1.2c136000,pular,NaN,NaN,platformer-1.2c136000,stick1,NaN,NaN,platformer-1.2c
+141000,mudar,NaN,NaN,platformer-1.2c141000,right,NaN,NaN,platformer-1.2c141000,super,NaN,NaN,platformer-1.2c141000,ok,NaN,NaN,platformer-1.2c141000,left,NaN,NaN,platformer-1.2c141000,stick2,NaN,NaN,platformer-1.2c141000,pular,NaN,NaN,platformer-1.2c141000,stick1,NaN,NaN,platformer-1.2c
+146000,mudar,NaN,NaN,platformer-1.2c146000,right,NaN,NaN,platformer-1.2c146000,super,NaN,NaN,platformer-1.2c146000,ok,NaN,NaN,platformer-1.2c146000,left,NaN,NaN,platformer-1.2c146000,stick2,NaN,NaN,platformer-1.2c146000,pular,NaN,NaN,platformer-1.2c146000,stick1,NaN,NaN,platformer-1.2c
+151000,mudar,NaN,NaN,platformer-1.2c151000,right,NaN,NaN,platformer-1.2c151000,super,NaN,NaN,platformer-1.2c151000,ok,NaN,NaN,platformer-1.2c151000,left,NaN,NaN,platformer-1.2c151000,stick2,NaN,NaN,platformer-1.2c151000,pular,NaN,NaN,platformer-1.2c151000,stick1,NaN,NaN,platformer-1.2c
+156000,mudar,NaN,NaN,platformer-1.2c156000,right,NaN,NaN,platformer-1.2c156000,super,NaN,NaN,platformer-1.2c156000,ok,NaN,NaN,platformer-1.2c156000,left,NaN,NaN,platformer-1.2c156000,stick2,NaN,NaN,platformer-1.2c156000,pular,NaN,NaN,platformer-1.2c156000,stick1,NaN,NaN,platformer-1.2c
+161000,mudar,NaN,NaN,platformer-1.2c161000,right,NaN,NaN,platformer-1.2c161000,super,NaN,NaN,platformer-1.2c161000,ok,NaN,NaN,platformer-1.2c161000,left,NaN,NaN,platformer-1.2c161000,stick2,NaN,NaN,platformer-1.2c161000,pular,NaN,NaN,platformer-1.2c161000,stick1,NaN,NaN,platformer-1.2c
+166000,mudar,NaN,NaN,platformer-1.2c166000,right,NaN,NaN,platformer-1.2c166000,super,NaN,NaN,platformer-1.2c166000,ok,NaN,NaN,platformer-1.2c166000,left,NaN,NaN,platformer-1.2c166000,stick2,NaN,NaN,platformer-1.2c166000,pular,NaN,NaN,platformer-1.2c166000,stick1,NaN,NaN,platformer-1.2c
+171000,mudar,NaN,NaN,platformer-1.2c171000,right,NaN,NaN,platformer-1.2c171000,super,NaN,NaN,platformer-1.2c171000,ok,NaN,NaN,platformer-1.2c171000,left,NaN,NaN,platformer-1.2c171000,stick2,NaN,NaN,platformer-1.2c171000,pular,NaN,NaN,platformer-1.2c171000,stick1,NaN,NaN,platformer-1.2c
+176000,mudar,NaN,NaN,platformer-1.2c176000,right,NaN,NaN,platformer-1.2c176000,super,NaN,NaN,platformer-1.2c176000,ok,NaN,NaN,platformer-1.2c176000,left,NaN,NaN,platformer-1.2c176000,stick2,NaN,NaN,platformer-1.2c176000,pular,NaN,NaN,platformer-1.2c176000,stick1,NaN,NaN,platformer-1.2c
+181000,mudar,NaN,NaN,nextscreen-1.2b181000,right,NaN,NaN,nextscreen-1.2b181000,super,NaN,NaN,nextscreen-1.2b181000,ok,NaN,NaN,nextscreen-1.2b181000,left,NaN,NaN,nextscreen-1.2b181000,stick2,NaN,NaN,nextscreen-1.2b181000,pular,NaN,NaN,nextscreen-1.2b181000,stick1,NaN,NaN,nextscreen-1.2b
+186000,transformacao,NaN,NaN,criticalurgency-1.1a186000,mudar,NaN,NaN,criticalurgency-1.1a186000,right,NaN,NaN,criticalurgency-1.1a186000,estabilizacao,NaN,NaN,criticalurgency-1.1a186000,super,NaN,NaN,criticalurgency-1.1a186000,ok,NaN,NaN,criticalurgency-1.1a186000,left,NaN,NaN,criticalurgency-1.1a186000,potencia,NaN,NaN,criticalurgency-1.1a186000,stick2,NaN,NaN,criticalurgency-1.1a186000,armas,NaN,NaN,criticalurgency-1.1a186000,pular,NaN,NaN,criticalurgency-1.1a186000,stick1,NaN,NaN,criticalurgency-1.1a
+191000,transformacao,NaN,NaN,criticalurgency-1.1a191000,mudar,NaN,NaN,criticalurgency-1.1a191000,right,NaN,NaN,criticalurgency-1.1a191000,estabilizacao,NaN,NaN,criticalurgency-1.1a191000,super,NaN,NaN,criticalurgency-1.1a191000,ok,NaN,NaN,criticalurgency-1.1a191000,left,NaN,NaN,criticalurgency-1.1a191000,potencia,NaN,NaN,criticalurgency-1.1a191000,stick2,NaN,NaN,criticalurgency-1.1a191000,armas,NaN,NaN,criticalurgency-1.1a191000,pular,NaN,NaN,criticalurgency-1.1a191000,stick1,NaN,NaN,criticalurgency-1.1a
+196000,transformacao,NaN,NaN,criticalurgency-1.1a196000,mudar,NaN,NaN,criticalurgency-1.1a196000,right,NaN,NaN,criticalurgency-1.1a196000,estabilizacao,NaN,NaN,criticalurgency-1.1a196000,super,NaN,NaN,criticalurgency-1.1a196000,ok,NaN,NaN,criticalurgency-1.1a196000,left,NaN,NaN,criticalurgency-1.1a196000,potencia,NaN,NaN,criticalurgency-1.1a196000,stick2,NaN,NaN,criticalurgency-1.1a196000,armas,NaN,NaN,criticalurgency-1.1a196000,pular,NaN,NaN,criticalurgency-1.1a196000,stick1,NaN,NaN,criticalurgency-1.1a
+201000,transformacao,NaN,NaN,criticalurgency-1.1a201000,mudar,NaN,NaN,criticalurgency-1.1a201000,right,NaN,NaN,criticalurgency-1.1a201000,estabilizacao,NaN,NaN,criticalurgency-1.1a201000,super,NaN,NaN,criticalurgency-1.1a201000,ok,NaN,NaN,criticalurgency-1.1a201000,left,NaN,NaN,criticalurgency-1.1a201000,potencia,NaN,NaN,criticalurgency-1.1a201000,stick2,NaN,NaN,criticalurgency-1.1a201000,armas,NaN,NaN,criticalurgency-1.1a201000,pular,NaN,NaN,criticalurgency-1.1a201000,stick1,NaN,NaN,criticalurgency-1.1a
+206000,transformacao,NaN,NaN,criticalurgency-1.1a206000,mudar,NaN,NaN,criticalurgency-1.1a206000,right,NaN,NaN,criticalurgency-1.1a206000,estabilizacao,NaN,NaN,criticalurgency-1.1a206000,super,NaN,NaN,criticalurgency-1.1a206000,ok,NaN,NaN,criticalurgency-1.1a206000,left,NaN,NaN,criticalurgency-1.1a206000,potencia,NaN,NaN,criticalurgency-1.1a206000,stick2,NaN,NaN,criticalurgency-1.1a206000,armas,NaN,NaN,criticalurgency-1.1a206000,pular,NaN,NaN,criticalurgency-1.1a206000,stick1,NaN,NaN,criticalurgency-1.1a
+211000,transformacao,NaN,NaN,criticalurgency-1.1a211000,mudar,NaN,NaN,criticalurgency-1.1a211000,right,NaN,NaN,criticalurgency-1.1a211000,estabilizacao,NaN,NaN,criticalurgency-1.1a211000,super,NaN,NaN,criticalurgency-1.1a211000,ok,NaN,NaN,criticalurgency-1.1a211000,left,NaN,NaN,criticalurgency-1.1a211000,potencia,NaN,NaN,criticalurgency-1.1a211000,stick2,NaN,NaN,criticalurgency-1.1a211000,armas,NaN,NaN,criticalurgency-1.1a211000,pular,NaN,NaN,criticalurgency-1.1a211000,stick1,NaN,NaN,criticalurgency-1.1a
+216000,transformacao,NaN,NaN,criticalurgency-1.1a216000,mudar,NaN,NaN,criticalurgency-1.1a216000,right,NaN,NaN,criticalurgency-1.1a216000,estabilizacao,NaN,NaN,criticalurgency-1.1a216000,super,NaN,NaN,criticalurgency-1.1a216000,ok,NaN,NaN,criticalurgency-1.1a216000,left,NaN,NaN,criticalurgency-1.1a216000,potencia,NaN,NaN,criticalurgency-1.1a216000,stick2,NaN,NaN,criticalurgency-1.1a216000,armas,NaN,NaN,criticalurgency-1.1a216000,pular,NaN,NaN,criticalurgency-1.1a216000,stick1,NaN,NaN,criticalurgency-1.1a
+221000,transformacao,NaN,NaN,criticalurgency-1.1a221000,mudar,NaN,NaN,criticalurgency-1.1a221000,right,NaN,NaN,criticalurgency-1.1a221000,estabilizacao,NaN,NaN,criticalurgency-1.1a221000,super,NaN,NaN,criticalurgency-1.1a221000,ok,NaN,NaN,criticalurgency-1.1a221000,left,NaN,NaN,criticalurgency-1.1a221000,potencia,NaN,NaN,criticalurgency-1.1a221000,stick2,NaN,NaN,criticalurgency-1.1a221000,armas,NaN,NaN,criticalurgency-1.1a221000,pular,NaN,NaN,criticalurgency-1.1a221000,stick1,NaN,NaN,criticalurgency-1.1a
+226000,mudar,NaN,NaN,drone-1.7.2226000,right,NaN,NaN,drone-1.7.2226000,ok,NaN,NaN,drone-1.7.2226000,left,NaN,NaN,drone-1.7.2226000,potencia,NaN,NaN,drone-1.7.2226000,stick2,NaN,NaN,drone-1.7.2226000,armas,NaN,NaN,drone-1.7.2226000,stick1,NaN,NaN,drone-1.7.2226000,transformacao,NaN,NaN,drone-1.7.2226000,estabilizacao,NaN,NaN,drone-1.7.2226000,super,NaN,NaN,drone-1.7.2226000,down,NaN,NaN,drone-1.7.2226000,up,NaN,NaN,drone-1.7.2226000,pular,NaN,NaN,drone-1.7.2
+231000,mudar,NaN,NaN,drone-1.7.2231000,right,NaN,NaN,drone-1.7.2231000,ok,NaN,NaN,drone-1.7.2231000,left,NaN,NaN,drone-1.7.2231000,potencia,NaN,NaN,drone-1.7.2231000,stick2,NaN,NaN,drone-1.7.2231000,armas,NaN,NaN,drone-1.7.2231000,stick1,NaN,NaN,drone-1.7.2231000,transformacao,NaN,NaN,drone-1.7.2231000,estabilizacao,NaN,NaN,drone-1.7.2231000,super,NaN,NaN,drone-1.7.2231000,down,NaN,NaN,drone-1.7.2231000,up,NaN,NaN,drone-1.7.2231000,pular,NaN,NaN,drone-1.7.2
+236000,mudar,NaN,NaN,drone-1.7.2236000,right,NaN,NaN,drone-1.7.2236000,ok,NaN,NaN,drone-1.7.2236000,left,NaN,NaN,drone-1.7.2236000,potencia,NaN,NaN,drone-1.7.2236000,stick2,NaN,NaN,drone-1.7.2236000,armas,NaN,NaN,drone-1.7.2236000,stick1,NaN,NaN,drone-1.7.2236000,transformacao,NaN,NaN,drone-1.7.2236000,estabilizacao,NaN,NaN,drone-1.7.2236000,super,NaN,NaN,drone-1.7.2236000,down,NaN,NaN,drone-1.7.2236000,up,NaN,NaN,drone-1.7.2236000,pular,NaN,NaN,drone-1.7.2
+241000,mudar,NaN,NaN,drone-1.7.2241000,right,NaN,NaN,drone-1.7.2241000,ok,NaN,NaN,drone-1.7.2241000,left,NaN,NaN,drone-1.7.2241000,potencia,NaN,NaN,drone-1.7.2241000,stick2,NaN,NaN,drone-1.7.2241000,armas,NaN,NaN,drone-1.7.2241000,stick1,NaN,NaN,drone-1.7.2241000,transformacao,NaN,NaN,drone-1.7.2241000,estabilizacao,NaN,NaN,drone-1.7.2241000,super,NaN,NaN,drone-1.7.2241000,down,NaN,NaN,drone-1.7.2241000,up,NaN,NaN,drone-1.7.2241000,pular,NaN,NaN,drone-1.7.2
+247000,mudar,NaN,NaN,drone-1.7.2247000,right,NaN,NaN,drone-1.7.2247000,ok,NaN,NaN,drone-1.7.2247000,left,NaN,NaN,drone-1.7.2247000,potencia,NaN,NaN,drone-1.7.2247000,stick2,NaN,NaN,drone-1.7.2247000,armas,NaN,NaN,drone-1.7.2247000,stick1,NaN,NaN,drone-1.7.2247000,transformacao,NaN,NaN,drone-1.7.2247000,estabilizacao,NaN,NaN,drone-1.7.2247000,super,NaN,NaN,drone-1.7.2247000,down,NaN,NaN,drone-1.7.2247000,up,NaN,NaN,drone-1.7.2247000,pular,NaN,NaN,drone-1.7.2
+252000,mudar,NaN,NaN,drone-1.7.2252000,right,NaN,NaN,drone-1.7.2252000,ok,NaN,NaN,drone-1.7.2252000,left,NaN,NaN,drone-1.7.2252000,potencia,NaN,NaN,drone-1.7.2252000,stick2,NaN,NaN,drone-1.7.2252000,armas,NaN,NaN,drone-1.7.2252000,stick1,NaN,NaN,drone-1.7.2252000,transformacao,NaN,NaN,drone-1.7.2252000,estabilizacao,NaN,NaN,drone-1.7.2252000,super,NaN,NaN,drone-1.7.2252000,down,NaN,NaN,drone-1.7.2252000,up,NaN,NaN,drone-1.7.2252000,pular,NaN,NaN,drone-1.7.2
+257000,mudar,NaN,NaN,drone-1.7.2257000,right,NaN,NaN,drone-1.7.2257000,ok,NaN,NaN,drone-1.7.2257000,left,NaN,NaN,drone-1.7.2257000,potencia,NaN,NaN,drone-1.7.2257000,stick2,NaN,NaN,drone-1.7.2257000,armas,NaN,NaN,drone-1.7.2257000,stick1,NaN,NaN,drone-1.7.2257000,transformacao,NaN,NaN,drone-1.7.2257000,estabilizacao,NaN,NaN,drone-1.7.2257000,super,NaN,NaN,drone-1.7.2257000,down,NaN,NaN,drone-1.7.2257000,up,NaN,NaN,drone-1.7.2257000,pular,NaN,NaN,drone-1.7.2
+262000,mudar,NaN,NaN,drone-1.7.2262000,right,NaN,NaN,drone-1.7.2262000,ok,NaN,NaN,drone-1.7.2262000,left,NaN,NaN,drone-1.7.2262000,potencia,NaN,NaN,drone-1.7.2262000,stick2,NaN,NaN,drone-1.7.2262000,armas,NaN,NaN,drone-1.7.2262000,stick1,NaN,NaN,drone-1.7.2262000,transformacao,NaN,NaN,drone-1.7.2262000,estabilizacao,NaN,NaN,drone-1.7.2262000,super,NaN,NaN,drone-1.7.2262000,down,NaN,NaN,drone-1.7.2262000,up,NaN,NaN,drone-1.7.2262000,pular,NaN,NaN,drone-1.7.2
+267000,mudar,NaN,NaN,drone-1.7.2267000,right,NaN,NaN,drone-1.7.2267000,ok,NaN,NaN,drone-1.7.2267000,left,NaN,NaN,drone-1.7.2267000,potencia,NaN,NaN,drone-1.7.2267000,stick2,NaN,NaN,drone-1.7.2267000,armas,NaN,NaN,drone-1.7.2267000,stick1,NaN,NaN,drone-1.7.2267000,transformacao,NaN,NaN,drone-1.7.2267000,estabilizacao,NaN,NaN,drone-1.7.2267000,super,NaN,NaN,drone-1.7.2267000,down,NaN,NaN,drone-1.7.2267000,up,NaN,NaN,drone-1.7.2267000,pular,NaN,NaN,drone-1.7.2
+272000,mudar,NaN,NaN,drone-1.7.2272000,right,NaN,NaN,drone-1.7.2272000,ok,NaN,NaN,drone-1.7.2272000,left,NaN,NaN,drone-1.7.2272000,potencia,NaN,NaN,drone-1.7.2272000,stick2,NaN,NaN,drone-1.7.2272000,armas,NaN,NaN,drone-1.7.2272000,stick1,NaN,NaN,drone-1.7.2272000,transformacao,NaN,NaN,drone-1.7.2272000,estabilizacao,NaN,NaN,drone-1.7.2272000,super,NaN,NaN,drone-1.7.2272000,down,NaN,NaN,drone-1.7.2272000,up,NaN,NaN,drone-1.7.2272000,pular,NaN,NaN,drone-1.7.2
+277000,mudar,NaN,NaN,drone-1.7.2277000,right,NaN,NaN,drone-1.7.2277000,ok,NaN,NaN,drone-1.7.2277000,left,NaN,NaN,drone-1.7.2277000,potencia,NaN,NaN,drone-1.7.2277000,stick2,NaN,NaN,drone-1.7.2277000,armas,NaN,NaN,drone-1.7.2277000,stick1,NaN,NaN,drone-1.7.2277000,transformacao,NaN,NaN,drone-1.7.2277000,estabilizacao,NaN,NaN,drone-1.7.2277000,super,NaN,NaN,drone-1.7.2277000,down,NaN,NaN,drone-1.7.2277000,up,NaN,NaN,drone-1.7.2277000,pular,NaN,NaN,drone-1.7.2
+282000,mudar,NaN,NaN,drone-1.7.2282000,right,NaN,NaN,drone-1.7.2282000,ok,NaN,NaN,drone-1.7.2282000,left,NaN,NaN,drone-1.7.2282000,potencia,NaN,NaN,drone-1.7.2282000,stick2,NaN,NaN,drone-1.7.2282000,armas,NaN,NaN,drone-1.7.2282000,stick1,NaN,NaN,drone-1.7.2282000,transformacao,NaN,NaN,drone-1.7.2282000,estabilizacao,NaN,NaN,drone-1.7.2282000,super,NaN,NaN,drone-1.7.2282000,down,NaN,NaN,drone-1.7.2282000,up,NaN,NaN,drone-1.7.2282000,pular,NaN,NaN,drone-1.7.2
+287000,mudar,NaN,NaN,drone-1.7.2287000,right,NaN,NaN,drone-1.7.2287000,ok,NaN,NaN,drone-1.7.2287000,left,NaN,NaN,drone-1.7.2287000,potencia,NaN,NaN,drone-1.7.2287000,stick2,NaN,NaN,drone-1.7.2287000,armas,NaN,NaN,drone-1.7.2287000,stick1,NaN,NaN,drone-1.7.2287000,transformacao,NaN,NaN,drone-1.7.2287000,estabilizacao,NaN,NaN,drone-1.7.2287000,super,NaN,NaN,drone-1.7.2287000,down,NaN,NaN,drone-1.7.2287000,up,NaN,NaN,drone-1.7.2287000,pular,NaN,NaN,drone-1.7.2
+292000,mudar,NaN,NaN,drone-1.7.2292000,right,NaN,NaN,drone-1.7.2292000,ok,NaN,NaN,drone-1.7.2292000,left,NaN,NaN,drone-1.7.2292000,potencia,NaN,NaN,drone-1.7.2292000,stick2,NaN,NaN,drone-1.7.2292000,armas,NaN,NaN,drone-1.7.2292000,stick1,NaN,NaN,drone-1.7.2292000,transformacao,NaN,NaN,drone-1.7.2292000,estabilizacao,NaN,NaN,drone-1.7.2292000,super,NaN,NaN,drone-1.7.2292000,down,NaN,NaN,drone-1.7.2292000,up,NaN,NaN,drone-1.7.2292000,pular,NaN,NaN,drone-1.7.2
+297000,mudar,NaN,NaN,drone-1.7.2297000,right,NaN,NaN,drone-1.7.2297000,ok,NaN,NaN,drone-1.7.2297000,left,NaN,NaN,drone-1.7.2297000,potencia,NaN,NaN,drone-1.7.2297000,stick2,NaN,NaN,drone-1.7.2297000,armas,NaN,NaN,drone-1.7.2297000,stick1,NaN,NaN,drone-1.7.2297000,transformacao,NaN,NaN,drone-1.7.2297000,estabilizacao,NaN,NaN,drone-1.7.2297000,super,NaN,NaN,drone-1.7.2297000,down,NaN,NaN,drone-1.7.2297000,up,NaN,NaN,drone-1.7.2297000,pular,NaN,NaN,drone-1.7.2
+302000,mudar,NaN,NaN,drone-1.7.2302000,right,NaN,NaN,drone-1.7.2302000,ok,NaN,NaN,drone-1.7.2302000,left,NaN,NaN,drone-1.7.2302000,potencia,NaN,NaN,drone-1.7.2302000,stick2,NaN,NaN,drone-1.7.2302000,armas,NaN,NaN,drone-1.7.2302000,stick1,NaN,NaN,drone-1.7.2302000,transformacao,NaN,NaN,drone-1.7.2302000,estabilizacao,NaN,NaN,drone-1.7.2302000,super,NaN,NaN,drone-1.7.2302000,down,NaN,NaN,drone-1.7.2302000,up,NaN,NaN,drone-1.7.2302000,pular,NaN,NaN,drone-1.7.2
+307000,mudar,NaN,NaN,drone-1.7.2307000,right,NaN,NaN,drone-1.7.2307000,ok,NaN,NaN,drone-1.7.2307000,left,NaN,NaN,drone-1.7.2307000,potencia,NaN,NaN,drone-1.7.2307000,stick2,NaN,NaN,drone-1.7.2307000,armas,NaN,NaN,drone-1.7.2307000,stick1,NaN,NaN,drone-1.7.2307000,transformacao,NaN,NaN,drone-1.7.2307000,estabilizacao,NaN,NaN,drone-1.7.2307000,super,NaN,NaN,drone-1.7.2307000,down,NaN,NaN,drone-1.7.2307000,up,NaN,NaN,drone-1.7.2307000,pular,NaN,NaN,drone-1.7.2
+312000,mudar,NaN,NaN,drone-1.7.2312000,right,NaN,NaN,drone-1.7.2312000,ok,NaN,NaN,drone-1.7.2312000,left,NaN,NaN,drone-1.7.2312000,potencia,NaN,NaN,drone-1.7.2312000,stick2,NaN,NaN,drone-1.7.2312000,armas,NaN,NaN,drone-1.7.2312000,stick1,NaN,NaN,drone-1.7.2312000,transformacao,NaN,NaN,drone-1.7.2312000,estabilizacao,NaN,NaN,drone-1.7.2312000,super,NaN,NaN,drone-1.7.2312000,down,NaN,NaN,drone-1.7.2312000,up,NaN,NaN,drone-1.7.2312000,pular,NaN,NaN,drone-1.7.2
+317000,mudar,NaN,NaN,drone-1.7.2317000,right,NaN,NaN,drone-1.7.2317000,ok,NaN,NaN,drone-1.7.2317000,left,NaN,NaN,drone-1.7.2317000,potencia,NaN,NaN,drone-1.7.2317000,stick2,NaN,NaN,drone-1.7.2317000,armas,NaN,NaN,drone-1.7.2317000,stick1,NaN,NaN,drone-1.7.2317000,transformacao,NaN,NaN,drone-1.7.2317000,estabilizacao,NaN,NaN,drone-1.7.2317000,super,NaN,NaN,drone-1.7.2317000,down,NaN,NaN,drone-1.7.2317000,up,NaN,NaN,drone-1.7.2317000,pular,NaN,NaN,drone-1.7.2
+322000,mudar,NaN,NaN,drone-1.7.2322000,right,NaN,NaN,drone-1.7.2322000,ok,NaN,NaN,drone-1.7.2322000,left,NaN,NaN,drone-1.7.2322000,potencia,NaN,NaN,drone-1.7.2322000,stick2,NaN,NaN,drone-1.7.2322000,armas,NaN,NaN,drone-1.7.2322000,stick1,NaN,NaN,drone-1.7.2322000,transformacao,NaN,NaN,drone-1.7.2322000,estabilizacao,NaN,NaN,drone-1.7.2322000,super,NaN,NaN,drone-1.7.2322000,down,NaN,NaN,drone-1.7.2322000,up,NaN,NaN,drone-1.7.2322000,pular,NaN,NaN,drone-1.7.2
+327000,mudar,NaN,NaN,drone-1.7.2327000,right,NaN,NaN,drone-1.7.2327000,ok,NaN,NaN,drone-1.7.2327000,left,NaN,NaN,drone-1.7.2327000,potencia,NaN,NaN,drone-1.7.2327000,stick2,NaN,NaN,drone-1.7.2327000,armas,NaN,NaN,drone-1.7.2327000,stick1,NaN,NaN,drone-1.7.2327000,transformacao,NaN,NaN,drone-1.7.2327000,estabilizacao,NaN,NaN,drone-1.7.2327000,super,NaN,NaN,drone-1.7.2327000,down,NaN,NaN,drone-1.7.2327000,up,NaN,NaN,drone-1.7.2327000,pular,NaN,NaN,drone-1.7.2
+332000,mudar,NaN,NaN,drone-1.7.2332000,right,NaN,NaN,drone-1.7.2332000,ok,NaN,NaN,drone-1.7.2332000,left,NaN,NaN,drone-1.7.2332000,potencia,NaN,NaN,drone-1.7.2332000,stick2,NaN,NaN,drone-1.7.2332000,armas,NaN,NaN,drone-1.7.2332000,stick1,NaN,NaN,drone-1.7.2332000,transformacao,NaN,NaN,drone-1.7.2332000,estabilizacao,NaN,NaN,drone-1.7.2332000,super,NaN,NaN,drone-1.7.2332000,down,NaN,NaN,drone-1.7.2332000,up,NaN,NaN,drone-1.7.2332000,pular,NaN,NaN,drone-1.7.2
+337000,mudar,NaN,NaN,drone-1.7.2337000,right,NaN,NaN,drone-1.7.2337000,ok,NaN,NaN,drone-1.7.2337000,left,NaN,NaN,drone-1.7.2337000,potencia,NaN,NaN,drone-1.7.2337000,stick2,NaN,NaN,drone-1.7.2337000,armas,NaN,NaN,drone-1.7.2337000,stick1,NaN,NaN,drone-1.7.2337000,transformacao,NaN,NaN,drone-1.7.2337000,estabilizacao,NaN,NaN,drone-1.7.2337000,super,NaN,NaN,drone-1.7.2337000,down,NaN,NaN,drone-1.7.2337000,up,NaN,NaN,drone-1.7.2337000,pular,NaN,NaN,drone-1.7.2
+342000,mudar,NaN,NaN,drone-1.7.2342000,right,NaN,NaN,drone-1.7.2342000,ok,NaN,NaN,drone-1.7.2342000,left,NaN,NaN,drone-1.7.2342000,potencia,NaN,NaN,drone-1.7.2342000,stick2,NaN,NaN,drone-1.7.2342000,armas,NaN,NaN,drone-1.7.2342000,stick1,NaN,NaN,drone-1.7.2342000,transformacao,NaN,NaN,drone-1.7.2342000,estabilizacao,NaN,NaN,drone-1.7.2342000,super,NaN,NaN,drone-1.7.2342000,down,NaN,NaN,drone-1.7.2342000,up,NaN,NaN,drone-1.7.2342000,pular,NaN,NaN,drone-1.7.2
+347000,mudar,NaN,NaN,drone-1.7.2347000,right,NaN,NaN,drone-1.7.2347000,ok,NaN,NaN,drone-1.7.2347000,left,NaN,NaN,drone-1.7.2347000,potencia,NaN,NaN,drone-1.7.2347000,stick2,NaN,NaN,drone-1.7.2347000,armas,NaN,NaN,drone-1.7.2347000,stick1,NaN,NaN,drone-1.7.2347000,transformacao,NaN,NaN,drone-1.7.2347000,estabilizacao,NaN,NaN,drone-1.7.2347000,super,NaN,NaN,drone-1.7.2347000,down,NaN,NaN,drone-1.7.2347000,up,NaN,NaN,drone-1.7.2347000,pular,NaN,NaN,drone-1.7.2
+352000,mudar,NaN,NaN,drone-1.7.2352000,right,NaN,NaN,drone-1.7.2352000,ok,NaN,NaN,drone-1.7.2352000,left,NaN,NaN,drone-1.7.2352000,potencia,NaN,NaN,drone-1.7.2352000,stick2,NaN,NaN,drone-1.7.2352000,armas,NaN,NaN,drone-1.7.2352000,stick1,NaN,NaN,drone-1.7.2352000,transformacao,NaN,NaN,drone-1.7.2352000,estabilizacao,NaN,NaN,drone-1.7.2352000,super,NaN,NaN,drone-1.7.2352000,down,NaN,NaN,drone-1.7.2352000,up,NaN,NaN,drone-1.7.2352000,pular,NaN,NaN,drone-1.7.2
+357000,mudar,NaN,NaN,drone-1.7.2357000,right,NaN,NaN,drone-1.7.2357000,ok,NaN,NaN,drone-1.7.2357000,left,NaN,NaN,drone-1.7.2357000,potencia,NaN,NaN,drone-1.7.2357000,stick2,NaN,NaN,drone-1.7.2357000,armas,NaN,NaN,drone-1.7.2357000,stick1,NaN,NaN,drone-1.7.2357000,transformacao,NaN,NaN,drone-1.7.2357000,estabilizacao,NaN,NaN,drone-1.7.2357000,super,NaN,NaN,drone-1.7.2357000,down,NaN,NaN,drone-1.7.2357000,up,NaN,NaN,drone-1.7.2357000,pular,NaN,NaN,drone-1.7.2
+362000,mudar,NaN,NaN,drone-1.7.2362000,right,NaN,NaN,drone-1.7.2362000,ok,NaN,NaN,drone-1.7.2362000,left,NaN,NaN,drone-1.7.2362000,potencia,NaN,NaN,drone-1.7.2362000,stick2,NaN,NaN,drone-1.7.2362000,armas,NaN,NaN,drone-1.7.2362000,stick1,NaN,NaN,drone-1.7.2362000,transformacao,NaN,NaN,drone-1.7.2362000,estabilizacao,NaN,NaN,drone-1.7.2362000,super,NaN,NaN,drone-1.7.2362000,down,NaN,NaN,drone-1.7.2362000,up,NaN,NaN,drone-1.7.2362000,pular,NaN,NaN,drone-1.7.2
+368000,mudar,NaN,NaN,drone-1.7.2368000,right,NaN,NaN,drone-1.7.2368000,ok,NaN,NaN,drone-1.7.2368000,left,NaN,NaN,drone-1.7.2368000,potencia,NaN,NaN,drone-1.7.2368000,stick2,NaN,NaN,drone-1.7.2368000,armas,NaN,NaN,drone-1.7.2368000,stick1,NaN,NaN,drone-1.7.2368000,transformacao,NaN,NaN,drone-1.7.2368000,estabilizacao,NaN,NaN,drone-1.7.2368000,super,NaN,NaN,drone-1.7.2368000,down,NaN,NaN,drone-1.7.2368000,up,NaN,NaN,drone-1.7.2368000,pular,NaN,NaN,drone-1.7.2
+373000,mudar,NaN,NaN,drone-1.7.2373000,right,NaN,NaN,drone-1.7.2373000,ok,NaN,NaN,drone-1.7.2373000,left,NaN,NaN,drone-1.7.2373000,potencia,NaN,NaN,drone-1.7.2373000,stick2,NaN,NaN,drone-1.7.2373000,armas,NaN,NaN,drone-1.7.2373000,stick1,NaN,NaN,drone-1.7.2373000,transformacao,NaN,NaN,drone-1.7.2373000,estabilizacao,NaN,NaN,drone-1.7.2373000,super,NaN,NaN,drone-1.7.2373000,down,NaN,NaN,drone-1.7.2373000,up,NaN,NaN,drone-1.7.2373000,pular,NaN,NaN,drone-1.7.2
+378000,mudar,NaN,NaN,drone-1.7.2378000,right,NaN,NaN,drone-1.7.2378000,ok,NaN,NaN,drone-1.7.2378000,left,NaN,NaN,drone-1.7.2378000,potencia,NaN,NaN,drone-1.7.2378000,stick2,NaN,NaN,drone-1.7.2378000,armas,NaN,NaN,drone-1.7.2378000,stick1,NaN,NaN,drone-1.7.2378000,transformacao,NaN,NaN,drone-1.7.2378000,estabilizacao,NaN,NaN,drone-1.7.2378000,super,NaN,NaN,drone-1.7.2378000,down,NaN,NaN,drone-1.7.2378000,up,NaN,NaN,drone-1.7.2378000,pular,NaN,NaN,drone-1.7.2
+383000,mudar,NaN,NaN,drone-1.7.2383000,right,NaN,NaN,drone-1.7.2383000,ok,NaN,NaN,drone-1.7.2383000,left,NaN,NaN,drone-1.7.2383000,potencia,NaN,NaN,drone-1.7.2383000,stick2,NaN,NaN,drone-1.7.2383000,armas,NaN,NaN,drone-1.7.2383000,stick1,NaN,NaN,drone-1.7.2383000,transformacao,NaN,NaN,drone-1.7.2383000,estabilizacao,NaN,NaN,drone-1.7.2383000,super,NaN,NaN,drone-1.7.2383000,down,NaN,NaN,drone-1.7.2383000,up,NaN,NaN,drone-1.7.2383000,pular,NaN,NaN,drone-1.7.2
+388000,mudar,NaN,NaN,drone-1.7.2388000,right,NaN,NaN,drone-1.7.2388000,ok,NaN,NaN,drone-1.7.2388000,left,NaN,NaN,drone-1.7.2388000,potencia,NaN,NaN,drone-1.7.2388000,stick2,NaN,NaN,drone-1.7.2388000,armas,NaN,NaN,drone-1.7.2388000,stick1,NaN,NaN,drone-1.7.2388000,transformacao,NaN,NaN,drone-1.7.2388000,estabilizacao,NaN,NaN,drone-1.7.2388000,super,NaN,NaN,drone-1.7.2388000,down,NaN,NaN,drone-1.7.2388000,up,NaN,NaN,drone-1.7.2388000,pular,NaN,NaN,drone-1.7.2
+393000,mudar,NaN,NaN,drone-1.7.2393000,right,NaN,NaN,drone-1.7.2393000,ok,NaN,NaN,drone-1.7.2393000,left,NaN,NaN,drone-1.7.2393000,potencia,NaN,NaN,drone-1.7.2393000,stick2,NaN,NaN,drone-1.7.2393000,armas,NaN,NaN,drone-1.7.2393000,stick1,NaN,NaN,drone-1.7.2393000,transformacao,NaN,NaN,drone-1.7.2393000,estabilizacao,NaN,NaN,drone-1.7.2393000,super,NaN,NaN,drone-1.7.2393000,down,NaN,NaN,drone-1.7.2393000,up,NaN,NaN,drone-1.7.2393000,pular,NaN,NaN,drone-1.7.2
+398000,mudar,NaN,NaN,drone-1.7.2398000,right,NaN,NaN,drone-1.7.2398000,ok,NaN,NaN,drone-1.7.2398000,left,NaN,NaN,drone-1.7.2398000,potencia,NaN,NaN,drone-1.7.2398000,stick2,NaN,NaN,drone-1.7.2398000,armas,NaN,NaN,drone-1.7.2398000,stick1,NaN,NaN,drone-1.7.2398000,transformacao,NaN,NaN,drone-1.7.2398000,estabilizacao,NaN,NaN,drone-1.7.2398000,super,NaN,NaN,drone-1.7.2398000,down,NaN,NaN,drone-1.7.2398000,up,NaN,NaN,drone-1.7.2398000,pular,NaN,NaN,drone-1.7.2
+403000,mudar,NaN,NaN,drone-1.7.2403000,right,NaN,NaN,drone-1.7.2403000,ok,NaN,NaN,drone-1.7.2403000,left,NaN,NaN,drone-1.7.2403000,potencia,NaN,NaN,drone-1.7.2403000,stick2,NaN,NaN,drone-1.7.2403000,armas,NaN,NaN,drone-1.7.2403000,stick1,NaN,NaN,drone-1.7.2403000,transformacao,NaN,NaN,drone-1.7.2403000,estabilizacao,NaN,NaN,drone-1.7.2403000,super,NaN,NaN,drone-1.7.2403000,down,NaN,NaN,drone-1.7.2403000,up,NaN,NaN,drone-1.7.2403000,pular,NaN,NaN,drone-1.7.2
+408000,mudar,NaN,NaN,drone-1.7.2408000,right,NaN,NaN,drone-1.7.2408000,ok,NaN,NaN,drone-1.7.2408000,left,NaN,NaN,drone-1.7.2408000,potencia,NaN,NaN,drone-1.7.2408000,stick2,NaN,NaN,drone-1.7.2408000,armas,NaN,NaN,drone-1.7.2408000,stick1,NaN,NaN,drone-1.7.2408000,transformacao,NaN,NaN,drone-1.7.2408000,estabilizacao,NaN,NaN,drone-1.7.2408000,super,NaN,NaN,drone-1.7.2408000,down,NaN,NaN,drone-1.7.2408000,up,NaN,NaN,drone-1.7.2408000,pular,NaN,NaN,drone-1.7.2
+413000,mudar,NaN,NaN,drone-1.7.2413000,right,NaN,NaN,drone-1.7.2413000,ok,NaN,NaN,drone-1.7.2413000,left,NaN,NaN,drone-1.7.2413000,potencia,NaN,NaN,drone-1.7.2413000,stick2,NaN,NaN,drone-1.7.2413000,armas,NaN,NaN,drone-1.7.2413000,stick1,NaN,NaN,drone-1.7.2413000,transformacao,NaN,NaN,drone-1.7.2413000,estabilizacao,NaN,NaN,drone-1.7.2413000,super,NaN,NaN,drone-1.7.2413000,down,NaN,NaN,drone-1.7.2413000,up,NaN,NaN,drone-1.7.2413000,pular,NaN,NaN,drone-1.7.2
+418000,mudar,NaN,NaN,drone-1.7.2418000,right,NaN,NaN,drone-1.7.2418000,ok,NaN,NaN,drone-1.7.2418000,left,NaN,NaN,drone-1.7.2418000,potencia,NaN,NaN,drone-1.7.2418000,stick2,NaN,NaN,drone-1.7.2418000,armas,NaN,NaN,drone-1.7.2418000,stick1,NaN,NaN,drone-1.7.2418000,transformacao,NaN,NaN,drone-1.7.2418000,estabilizacao,NaN,NaN,drone-1.7.2418000,super,NaN,NaN,drone-1.7.2418000,down,NaN,NaN,drone-1.7.2418000,up,NaN,NaN,drone-1.7.2418000,pular,NaN,NaN,drone-1.7.2
+423000,mudar,NaN,NaN,drone-1.7.2423000,right,NaN,NaN,drone-1.7.2423000,ok,NaN,NaN,drone-1.7.2423000,left,NaN,NaN,drone-1.7.2423000,potencia,NaN,NaN,drone-1.7.2423000,stick2,NaN,NaN,drone-1.7.2423000,armas,NaN,NaN,drone-1.7.2423000,stick1,NaN,NaN,drone-1.7.2423000,transformacao,NaN,NaN,drone-1.7.2423000,estabilizacao,NaN,NaN,drone-1.7.2423000,super,NaN,NaN,drone-1.7.2423000,down,NaN,NaN,drone-1.7.2423000,up,NaN,NaN,drone-1.7.2423000,pular,NaN,NaN,drone-1.7.2
+428000,mudar,NaN,NaN,drone-1.7.2428000,right,NaN,NaN,drone-1.7.2428000,ok,NaN,NaN,drone-1.7.2428000,left,NaN,NaN,drone-1.7.2428000,potencia,NaN,NaN,drone-1.7.2428000,stick2,NaN,NaN,drone-1.7.2428000,armas,NaN,NaN,drone-1.7.2428000,stick1,NaN,NaN,drone-1.7.2428000,transformacao,NaN,NaN,drone-1.7.2428000,estabilizacao,NaN,NaN,drone-1.7.2428000,super,NaN,NaN,drone-1.7.2428000,down,NaN,NaN,drone-1.7.2428000,up,NaN,NaN,drone-1.7.2428000,pular,NaN,NaN,drone-1.7.2
+433000,mudar,NaN,NaN,drone-1.7.2433000,right,NaN,NaN,drone-1.7.2433000,ok,NaN,NaN,drone-1.7.2433000,left,NaN,NaN,drone-1.7.2433000,potencia,NaN,NaN,drone-1.7.2433000,stick2,NaN,NaN,drone-1.7.2433000,armas,NaN,NaN,drone-1.7.2433000,stick1,NaN,NaN,drone-1.7.2433000,transformacao,NaN,NaN,drone-1.7.2433000,estabilizacao,NaN,NaN,drone-1.7.2433000,super,NaN,NaN,drone-1.7.2433000,down,NaN,NaN,drone-1.7.2433000,up,NaN,NaN,drone-1.7.2433000,pular,NaN,NaN,drone-1.7.2
+438000,mudar,NaN,NaN,drone-1.7.2438000,right,NaN,NaN,drone-1.7.2438000,ok,NaN,NaN,drone-1.7.2438000,left,NaN,NaN,drone-1.7.2438000,potencia,NaN,NaN,drone-1.7.2438000,stick2,NaN,NaN,drone-1.7.2438000,armas,NaN,NaN,drone-1.7.2438000,stick1,NaN,NaN,drone-1.7.2438000,transformacao,NaN,NaN,drone-1.7.2438000,estabilizacao,NaN,NaN,drone-1.7.2438000,super,NaN,NaN,drone-1.7.2438000,down,NaN,NaN,drone-1.7.2438000,up,NaN,NaN,drone-1.7.2438000,pular,NaN,NaN,drone-1.7.2
+443000,mudar,NaN,NaN,drone-1.7.2443000,right,NaN,NaN,drone-1.7.2443000,ok,NaN,NaN,drone-1.7.2443000,left,NaN,NaN,drone-1.7.2443000,potencia,NaN,NaN,drone-1.7.2443000,stick2,NaN,NaN,drone-1.7.2443000,armas,NaN,NaN,drone-1.7.2443000,stick1,NaN,NaN,drone-1.7.2443000,transformacao,NaN,NaN,drone-1.7.2443000,estabilizacao,NaN,NaN,drone-1.7.2443000,super,NaN,NaN,drone-1.7.2443000,down,NaN,NaN,drone-1.7.2443000,up,NaN,NaN,drone-1.7.2443000,pular,NaN,NaN,drone-1.7.2
+448000,mudar,NaN,NaN,drone-1.7.2448000,right,NaN,NaN,drone-1.7.2448000,ok,NaN,NaN,drone-1.7.2448000,left,NaN,NaN,drone-1.7.2448000,potencia,NaN,NaN,drone-1.7.2448000,stick2,NaN,NaN,drone-1.7.2448000,armas,NaN,NaN,drone-1.7.2448000,stick1,NaN,NaN,drone-1.7.2448000,transformacao,NaN,NaN,drone-1.7.2448000,estabilizacao,NaN,NaN,drone-1.7.2448000,super,NaN,NaN,drone-1.7.2448000,down,NaN,NaN,drone-1.7.2448000,up,NaN,NaN,drone-1.7.2448000,pular,NaN,NaN,drone-1.7.2
+453000,mudar,NaN,NaN,drone-1.7.2453000,right,NaN,NaN,drone-1.7.2453000,ok,NaN,NaN,drone-1.7.2453000,left,NaN,NaN,drone-1.7.2453000,potencia,NaN,NaN,drone-1.7.2453000,stick2,NaN,NaN,drone-1.7.2453000,armas,NaN,NaN,drone-1.7.2453000,stick1,NaN,NaN,drone-1.7.2453000,transformacao,NaN,NaN,drone-1.7.2453000,estabilizacao,NaN,NaN,drone-1.7.2453000,super,NaN,NaN,drone-1.7.2453000,down,NaN,NaN,drone-1.7.2453000,up,NaN,NaN,drone-1.7.2453000,pular,NaN,NaN,drone-1.7.2
+458000,mudar,NaN,NaN,drone-1.7.2458000,right,NaN,NaN,drone-1.7.2458000,ok,NaN,NaN,drone-1.7.2458000,left,NaN,NaN,drone-1.7.2458000,potencia,NaN,NaN,drone-1.7.2458000,stick2,NaN,NaN,drone-1.7.2458000,armas,NaN,NaN,drone-1.7.2458000,stick1,NaN,NaN,drone-1.7.2458000,transformacao,NaN,NaN,drone-1.7.2458000,estabilizacao,NaN,NaN,drone-1.7.2458000,super,NaN,NaN,drone-1.7.2458000,down,NaN,NaN,drone-1.7.2458000,up,NaN,NaN,drone-1.7.2458000,pular,NaN,NaN,drone-1.7.2
+463000,mudar,NaN,NaN,drone-1.7.2463000,right,NaN,NaN,drone-1.7.2463000,ok,NaN,NaN,drone-1.7.2463000,left,NaN,NaN,drone-1.7.2463000,potencia,NaN,NaN,drone-1.7.2463000,stick2,NaN,NaN,drone-1.7.2463000,armas,NaN,NaN,drone-1.7.2463000,stick1,NaN,NaN,drone-1.7.2463000,transformacao,NaN,NaN,drone-1.7.2463000,estabilizacao,NaN,NaN,drone-1.7.2463000,super,NaN,NaN,drone-1.7.2463000,down,NaN,NaN,drone-1.7.2463000,up,NaN,NaN,drone-1.7.2463000,pular,NaN,NaN,drone-1.7.2
+468000,mudar,NaN,NaN,drone-1.7.2468000,right,NaN,NaN,drone-1.7.2468000,ok,NaN,NaN,drone-1.7.2468000,left,NaN,NaN,drone-1.7.2468000,potencia,NaN,NaN,drone-1.7.2468000,stick2,NaN,NaN,drone-1.7.2468000,armas,NaN,NaN,drone-1.7.2468000,stick1,NaN,NaN,drone-1.7.2468000,transformacao,NaN,NaN,drone-1.7.2468000,estabilizacao,NaN,NaN,drone-1.7.2468000,super,NaN,NaN,drone-1.7.2468000,down,NaN,NaN,drone-1.7.2468000,up,NaN,NaN,drone-1.7.2468000,pular,NaN,NaN,drone-1.7.2
+473000,mudar,NaN,NaN,drone-1.7.2473000,right,NaN,NaN,drone-1.7.2473000,ok,NaN,NaN,drone-1.7.2473000,left,NaN,NaN,drone-1.7.2473000,potencia,NaN,NaN,drone-1.7.2473000,stick2,NaN,NaN,drone-1.7.2473000,armas,NaN,NaN,drone-1.7.2473000,stick1,NaN,NaN,drone-1.7.2473000,transformacao,NaN,NaN,drone-1.7.2473000,estabilizacao,NaN,NaN,drone-1.7.2473000,super,NaN,NaN,drone-1.7.2473000,down,NaN,NaN,drone-1.7.2473000,up,NaN,NaN,drone-1.7.2473000,pular,NaN,NaN,drone-1.7.2
+479000,mudar,NaN,NaN,drone-1.7.2479000,right,NaN,NaN,drone-1.7.2479000,ok,NaN,NaN,drone-1.7.2479000,left,NaN,NaN,drone-1.7.2479000,potencia,NaN,NaN,drone-1.7.2479000,stick2,NaN,NaN,drone-1.7.2479000,armas,NaN,NaN,drone-1.7.2479000,stick1,NaN,NaN,drone-1.7.2479000,transformacao,NaN,NaN,drone-1.7.2479000,estabilizacao,NaN,NaN,drone-1.7.2479000,super,NaN,NaN,drone-1.7.2479000,down,NaN,NaN,drone-1.7.2479000,up,NaN,NaN,drone-1.7.2479000,pular,NaN,NaN,drone-1.7.2
+484000,mudar,NaN,NaN,drone-1.7.2484000,right,NaN,NaN,drone-1.7.2484000,ok,NaN,NaN,drone-1.7.2484000,left,NaN,NaN,drone-1.7.2484000,potencia,NaN,NaN,drone-1.7.2484000,stick2,NaN,NaN,drone-1.7.2484000,armas,NaN,NaN,drone-1.7.2484000,stick1,NaN,NaN,drone-1.7.2484000,transformacao,NaN,NaN,drone-1.7.2484000,estabilizacao,NaN,NaN,drone-1.7.2484000,super,NaN,NaN,drone-1.7.2484000,down,NaN,NaN,drone-1.7.2484000,up,NaN,NaN,drone-1.7.2484000,pular,NaN,NaN,drone-1.7.2
+489000,mudar,NaN,NaN,drone-1.7.2489000,right,NaN,NaN,drone-1.7.2489000,ok,NaN,NaN,drone-1.7.2489000,left,NaN,NaN,drone-1.7.2489000,potencia,NaN,NaN,drone-1.7.2489000,stick2,NaN,NaN,drone-1.7.2489000,armas,NaN,NaN,drone-1.7.2489000,stick1,NaN,NaN,drone-1.7.2489000,transformacao,NaN,NaN,drone-1.7.2489000,estabilizacao,NaN,NaN,drone-1.7.2489000,super,NaN,NaN,drone-1.7.2489000,down,NaN,NaN,drone-1.7.2489000,up,NaN,NaN,drone-1.7.2489000,pular,NaN,NaN,drone-1.7.2
+494000,mudar,NaN,NaN,drone-1.7.2494000,right,NaN,NaN,drone-1.7.2494000,ok,NaN,NaN,drone-1.7.2494000,left,NaN,NaN,drone-1.7.2494000,potencia,NaN,NaN,drone-1.7.2494000,stick2,NaN,NaN,drone-1.7.2494000,armas,NaN,NaN,drone-1.7.2494000,stick1,NaN,NaN,drone-1.7.2494000,transformacao,NaN,NaN,drone-1.7.2494000,estabilizacao,NaN,NaN,drone-1.7.2494000,super,NaN,NaN,drone-1.7.2494000,down,NaN,NaN,drone-1.7.2494000,up,NaN,NaN,drone-1.7.2494000,pular,NaN,NaN,drone-1.7.2
+499000,mudar,NaN,NaN,drone-1.7.2499000,right,NaN,NaN,drone-1.7.2499000,ok,NaN,NaN,drone-1.7.2499000,left,NaN,NaN,drone-1.7.2499000,potencia,NaN,NaN,drone-1.7.2499000,stick2,NaN,NaN,drone-1.7.2499000,armas,NaN,NaN,drone-1.7.2499000,stick1,NaN,NaN,drone-1.7.2499000,transformacao,NaN,NaN,drone-1.7.2499000,estabilizacao,NaN,NaN,drone-1.7.2499000,super,NaN,NaN,drone-1.7.2499000,down,NaN,NaN,drone-1.7.2499000,up,NaN,NaN,drone-1.7.2499000,pular,NaN,NaN,drone-1.7.2
+504000,mudar,NaN,NaN,nextscreen-1.2b504000,right,NaN,NaN,nextscreen-1.2b504000,ok,NaN,NaN,nextscreen-1.2b504000,left,NaN,NaN,nextscreen-1.2b504000,potencia,NaN,NaN,nextscreen-1.2b504000,stick2,NaN,NaN,nextscreen-1.2b504000,armas,NaN,NaN,nextscreen-1.2b504000,stick1,NaN,NaN,nextscreen-1.2b504000,transformacao,NaN,NaN,nextscreen-1.2b504000,estabilizacao,NaN,NaN,nextscreen-1.2b504000,super,NaN,NaN,nextscreen-1.2b504000,down,NaN,NaN,nextscreen-1.2b504000,up,NaN,NaN,nextscreen-1.2b504000,pular,NaN,NaN,nextscreen-1.2b
+509000,mudar,NaN,NaN,nextscreen-1.2b509000,right,NaN,NaN,nextscreen-1.2b509000,ok,NaN,NaN,nextscreen-1.2b509000,left,NaN,NaN,nextscreen-1.2b509000,potencia,NaN,NaN,nextscreen-1.2b509000,stick2,NaN,NaN,nextscreen-1.2b509000,armas,NaN,NaN,nextscreen-1.2b509000,stick1,NaN,NaN,nextscreen-1.2b509000,transformacao,NaN,NaN,nextscreen-1.2b509000,estabilizacao,NaN,NaN,nextscreen-1.2b509000,super,NaN,NaN,nextscreen-1.2b509000,down,NaN,NaN,nextscreen-1.2b509000,up,NaN,NaN,nextscreen-1.2b509000,pular,NaN,NaN,nextscreen-1.2b
+514000,mudar,NaN,NaN,nextscreen-1.2b514000,right,NaN,NaN,nextscreen-1.2b514000,ok,100.0,0.0,nextscreen-1.2b514000,left,NaN,NaN,nextscreen-1.2b514000,potencia,NaN,NaN,nextscreen-1.2b514000,stick2,NaN,NaN,nextscreen-1.2b514000,armas,NaN,NaN,nextscreen-1.2b514000,stick1,NaN,NaN,nextscreen-1.2b514000,transformacao,NaN,NaN,nextscreen-1.2b514000,estabilizacao,NaN,NaN,nextscreen-1.2b514000,super,NaN,NaN,nextscreen-1.2b514000,down,NaN,NaN,nextscreen-1.2b514000,up,NaN,NaN,nextscreen-1.2b514000,pular,NaN,NaN,nextscreen-1.2b
+519000,mudar,NaN,NaN,nextscreen-1.2b519000,right,NaN,NaN,nextscreen-1.2b519000,ok,100.0,0.0,nextscreen-1.2b519000,left,NaN,NaN,nextscreen-1.2b519000,potencia,NaN,NaN,nextscreen-1.2b519000,stick2,NaN,NaN,nextscreen-1.2b519000,armas,NaN,NaN,nextscreen-1.2b519000,stick1,NaN,NaN,nextscreen-1.2b519000,transformacao,NaN,NaN,nextscreen-1.2b519000,estabilizacao,NaN,NaN,nextscreen-1.2b519000,super,NaN,NaN,nextscreen-1.2b519000,down,NaN,NaN,nextscreen-1.2b519000,up,NaN,NaN,nextscreen-1.2b519000,pular,NaN,NaN,nextscreen-1.2b
+524000,mudar,NaN,NaN,nextscreen-1.2b524000,right,NaN,NaN,nextscreen-1.2b524000,ok,100.0,0.0,nextscreen-1.2b524000,left,NaN,NaN,nextscreen-1.2b524000,potencia,NaN,NaN,nextscreen-1.2b524000,stick2,NaN,NaN,nextscreen-1.2b524000,armas,NaN,NaN,nextscreen-1.2b524000,stick1,NaN,NaN,nextscreen-1.2b524000,transformacao,NaN,NaN,nextscreen-1.2b524000,estabilizacao,NaN,NaN,nextscreen-1.2b524000,super,NaN,NaN,nextscreen-1.2b524000,down,NaN,NaN,nextscreen-1.2b524000,up,NaN,NaN,nextscreen-1.2b524000,pular,NaN,NaN,nextscreen-1.2b
+# Historico dos botoes - nome,x,y,largura,altura
+# Toques - x,y,btnName,correct
+1738,926,ok,1
+# Dados de mensagens - tempo, mensagem
+60411,Level 1
+80590,Checkpoint
+105842,Checkpoint
+120996,Checkpoint
+131089,Level 1
+156244,Checkpoint
+176425,Changing level to 6
+176425,Changing level to 6
+181519,Puzzle
+216721,Puzzle solved
+221756,Level 2
+236894,Died - collision with platform
+236894,Level 2
+262122,Checkpoint
+272195,Died - collision with platform
+272195,Level 2
+332713,Checkpoint
+368017,Checkpoint
+398310,Checkpoint
+423513,Died - collision with platform
+423513,Level 2
+453788,Checkpoint
+473947,Died - asteroid
+473947,Level 2
+499181,Changing level to 10
